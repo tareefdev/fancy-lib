@@ -1,0 +1,12 @@
+# node
+node_modules
+
+lib
+.cache
+public
+
+# Editor Config files
+jsconfig.json
+
+# Linux
+.directory
