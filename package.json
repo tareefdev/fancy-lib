@@ -1,6 +1,6 @@
 {
   "name": "tareefiyat",
-  "version": "0.1.4",
+  "version": "0.1.10",
   "description": "",
   "main": "lib/index.js",
   "module": "lib/index.js",
@@ -16,7 +16,8 @@
     "@emotion/core": "^10.0.27",
     "@emotion/styled": "^10.0.27",
     "react": "^16.12.0",
-    "react-dom": "^16.12.0"
+    "react-dom": "^16.12.0",
+    "gatsby": "^2.19.17"
   },
   "devDependencies": {
     "@babel/core": "^7.8.4",
@@ -32,6 +33,7 @@
     "eslint-plugin-import": "^2.20.1",
     "eslint-plugin-react": "^7.18.3",
     "eslint-plugin-react-hooks": "^2.3.0",
+    "gatsby": "^2.19.17",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "sass-loader": "^8.0.2",
